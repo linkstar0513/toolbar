@@ -3,6 +3,7 @@
 	"displayName": "ToolBar",
 	"description": "toolbar",
 	"version": "0.0.1",
+	"publisher": "linkstar0513",
 	"engines": {
 		"vscode": "^1.40.0"
 	},
